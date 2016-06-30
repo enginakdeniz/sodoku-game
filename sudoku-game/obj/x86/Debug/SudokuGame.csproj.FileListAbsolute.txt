@@ -1,0 +1,9 @@
+Z:\Projects\PuzzleGame\PuzzleGame\obj\x86\Debug\SudokuGame.AboutForm.resources
+Z:\Projects\PuzzleGame\PuzzleGame\obj\x86\Debug\SudokuGame.MainForm.resources
+Z:\Projects\PuzzleGame\PuzzleGame\obj\x86\Debug\SudokuGame.Properties.Resources.resources
+Z:\Projects\PuzzleGame\PuzzleGame\obj\x86\Debug\SudokuGame.csproj.GenerateResource.Cache
+Z:\Projects\PuzzleGame\PuzzleGame\bin\Debug\SudokuGame.exe
+Z:\Projects\PuzzleGame\PuzzleGame\bin\Debug\SudokuGame.pdb
+Z:\Projects\PuzzleGame\PuzzleGame\obj\x86\Debug\SudokuGame.exe
+Z:\Projects\PuzzleGame\PuzzleGame\obj\x86\Debug\SudokuGame.pdb
+Z:\Projects\PuzzleGame\PuzzleGame\obj\x86\Debug\SudokuGame.csprojResolveAssemblyReference.cache
